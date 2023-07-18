@@ -29,7 +29,7 @@ Run the example of connecting to OpenFin and creating applications
 
 ## POSTMAN COLLECTION
 
-Postman collection file is in resources folder /adapters/src/main/resources/ZARA DEMO RAFAEL V3 Adapter-port.postman_collection.json
+Postman collection file is in resources folder /zara-adapters/src/main/resources/ZARA DEMO RAFAEL V3 Adapter-port.postman_collection.json
 
 ```JSON
    {
