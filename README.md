@@ -545,6 +545,8 @@ e. request at 9:00 p.m. on the 16th of product 35455 for brand 1.
 
 2. Test case for repository class is written in PricingRepositoryTest class. Where we are inserting data in h2 db and retrieving it using our query.
 
+3. Tests cases for the get, delete, update, create operations
+
 
 
 ```java
@@ -736,16 +738,3 @@ Delete all Pricing [DELETE]
 http://localhost:8080/pricing/1
 ```
 
-## Test scenarios
-
-1. Test case for file PricingController is written in PricingControllerTest class where we have covered below scenrios
-
-a. request at 10:00 on day 14 of product 35455 for brand.
-b. request at 4:00 p.m. on day 14 of product 35455 for brand 1.
-c. request at 9:00 p.m. on day 14 of product 35455 for brand 1.
-d. request at 10:00 on day 15 of product 35455 for brand 1.
-e. request at 9:00 p.m. on the 16th of product 35455 for brand 1.
-
-2. Test case for repository class is written in PricingRepositoryTest class. Where we are inserting data in h2 db and retrieving it using our query.
-
-3. Tests cases for the get, delete, update, create operations
