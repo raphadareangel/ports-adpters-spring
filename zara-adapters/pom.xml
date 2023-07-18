@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.zara.zara4</groupId>
-	<artifactId>adapters</artifactId>
+	<artifactId>zara-adapters</artifactId>
 	<version>1.0.0</version>
 	<name>zara-adapters</name>
 	<description>Spring Boot zara</description>
